@@ -1,0 +1,6 @@
+This project contains my work on using the Neo4j graph database engine from ColdFusion Web applications.
+
+src/org.fraught.neo4j.neo4j		A helper CFC that simplifies connecting to a Neo4j instance
+
+src/hello_world.cfm				Implementation of "Hello World" Neo4j application from http://wiki.neo4j.org/content/Getting_Started_Guide
+src/test_cfc.cfm				Same as hello_world.cfm, but using the helper CFC.
